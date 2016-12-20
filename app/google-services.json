@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "622888502682",
+    "firebase_url": "https://journalize-54f14.firebaseio.com",
+    "project_id": "journalize-54f14",
+    "storage_bucket": "journalize-54f14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622888502682:android:c2fbba515308add4",
+        "android_client_info": {
+          "package_name": "com.fayaz.pix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622888502682-c7167c5kbbrv3jbvh90495fmb8eqrd1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSPI8q86xvA-vGyHv1jLwKz5RvDg_sGGU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
